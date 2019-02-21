@@ -1,0 +1,1 @@
+INSERT INTO usuario (usuario, senha) VALUES ("testuol", "$2a$10$aBPcSalSn8b3MRDSYBPG0e.XermiAaGB.5QKfYJyoPlt7oG3yOLKy");
